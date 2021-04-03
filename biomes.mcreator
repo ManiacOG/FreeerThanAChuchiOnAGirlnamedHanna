@@ -27,6 +27,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "autumn_forest"
+    },
+    {
+      "name": "FrozenForest",
+      "type": "biome",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_forest"
     }
   ],
   "variable_elements": [],
@@ -35,7 +44,8 @@
     "en_us": {
       "biome.biomes.autumn_forest": "Autumn Forest",
       "biome.biomes.weeping_forest": "Weeping Forest",
-      "biome.biomes.underworld": "Underworld"
+      "biome.biomes.underworld": "Underworld",
+      "biome.biomes.frozen_forest": "Spring Forest"
     }
   },
   "workspaceSettings": {
