@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Blue16": "blue16"
+      },
+      "name": "default"
+    }
+  }
+}

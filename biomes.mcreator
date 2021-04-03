@@ -1,0 +1,49 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "WeepingForest",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weeping_forest"
+    },
+    {
+      "name": "Underworld",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "underworld"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "biome.biomes.weeping_forest": "Weeping Forest",
+      "biome.biomes.underworld": "Underworld"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "biomes",
+    "modName": "Elevated Biomes",
+    "version": "1.0.0",
+    "author": "Steve, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "modElementsPackage": "net.mcreator.biomes",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}
