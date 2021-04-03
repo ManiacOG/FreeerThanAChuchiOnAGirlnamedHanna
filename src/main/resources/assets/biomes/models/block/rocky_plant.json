@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "biomes:blocks/rockyflower",
+    "particle": "biomes:blocks/rockyflower"
+  }
+}
