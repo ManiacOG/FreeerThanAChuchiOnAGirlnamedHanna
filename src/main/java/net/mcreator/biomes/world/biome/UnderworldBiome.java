@@ -43,8 +43,8 @@ public class UnderworldBiome extends BiomesModElements.ModElement {
 		@SubscribeEvent
 		public void registerBiomes(RegistryEvent.Register<Biome> event) {
 			if (biome == null) {
-				BiomeAmbience effects = new BiomeAmbience.Builder().setFogColor(-6750208).setWaterColor(-10092544).setWaterFogColor(-10092544)
-						.withSkyColor(-6750208).withFoliageColor(-16777216).withGrassColor(9470285).build();
+				BiomeAmbience effects = new BiomeAmbience.Builder().setFogColor(12638463).setWaterColor(-10092544).setWaterFogColor(329011)
+						.withSkyColor(7972607).withFoliageColor(-16777216).withGrassColor(9470285).build();
 				BiomeGenerationSettings.Builder biomeGenerationSettings = new BiomeGenerationSettings.Builder()
 						.withSurfaceBuilder(SurfaceBuilder.DEFAULT.func_242929_a(new SurfaceBuilderConfig(Blocks.NETHERRACK.getDefaultState(),
 								Blocks.MAGMA_BLOCK.getDefaultState(), Blocks.MAGMA_BLOCK.getDefaultState())));

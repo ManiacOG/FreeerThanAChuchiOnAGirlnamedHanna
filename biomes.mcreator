@@ -20,6 +20,15 @@
       "registry_name": "underworld"
     },
     {
+      "name": "RockyPlant",
+      "type": "plant",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rocky_plant"
+    },
+    {
       "name": "RockyPlains",
       "type": "biome",
       "sortid": 3,
@@ -29,13 +38,13 @@
       "registry_name": "rocky_plains"
     },
     {
-      "name": "RockyPlant",
-      "type": "plant",
-      "sortid": 4,
+      "name": "AutumnForest",
+      "type": "biome",
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "rocky_plant"
+      "registry_name": "autumn_forest"
     }
   ],
   "variable_elements": [],
@@ -43,8 +52,6 @@
   "language_map": {
     "en_us": {
       "biome.biomes.weeping_forest": "Weeping Forest",
-      "biome.biomes.rocky_plains": "Rocky Plains",
-      "block.biomes.rocky_plant": "Rocky Plant",
       "biome.biomes.underworld": "Underworld"
     }
   },
